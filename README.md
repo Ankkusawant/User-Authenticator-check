@@ -24,17 +24,17 @@ Auth_Project/
   - One uppercase letter
   - One lowercase letter
   - One digit
-  - One special character
----------- User Authentication System ----------
+  - One special character <br>
+---------- User Authentication System ---------- <br>
 1. Register
 2. Login
 3. Exit
 Choose an option (1-3): 1
 Enter your email: user@example.com
 Enter your password: MyPass@123
-Registration successful
------------  .gitignore  ----------
-To avoid uploading sensitive data.
------------  Requirements  ----------
+Registration successful <br>
+-----------  .gitignore  ---------- <br>
+To avoid uploading sensitive data. <br>
+-----------  Requirements  ---------- <br>
 No external libraries required.
 Works on Python 3.x.
